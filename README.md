@@ -1,6 +1,6 @@
-~~Unavailable~~
-**Full stopped**
-_Visited_
+- ~~Unavailable~~ Reason
+- **Full stopped**
+- _Visited_
 
 # Within 50nm of YHEC or YBAF
 
